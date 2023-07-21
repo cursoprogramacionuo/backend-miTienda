@@ -1,0 +1,2 @@
+va con una base de datos mariadb
+hay que crear una tabla menssages, con valor name y text
