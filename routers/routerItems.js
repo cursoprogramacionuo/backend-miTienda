@@ -32,6 +32,4 @@ routerItems.get("/:id", async (req,res) => {
     res.json(items)
 })
 
-
-
 module.exports = routerItems
